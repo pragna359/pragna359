@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**pragna359/pragna359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pragna 👋
 
-Here are some ideas to get you started:
+### Java Full Stack Developer | Backend Enthusiast
+I’m a passionate developer focused on building scalable web applications using Java and modern full stack technologies. Currently learning and building projects with Spring Boot, Microservices, Cloud, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- JDBC
+- MySQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+
+### Tools & Platforms
+- Git & GitHub
+- Maven
+- Eclipse IDE
+- VS Code
+- Postman
+
+## 📚 Currently Learning
+- Spring Security
+- Microservices Architecture
+- Cloud Basics
+- Data Structures & Algorithms
+
+## 💻 Projects
+- Banking Management System
+- Blogging Platform
+- Club Website
+- Smart Backend API Optimizer (Upcoming)
+
+## 🎯 Career Goal
+Aspiring Java Full Stack Developer focused on backend engineering and scalable application development.
+
+## 📫 Connect With Me
+- GitHub: https://github.com/pragna359
+- LinkedIn: https://www.linkedin.com/in/sree-pragna-kadali-b91874281 
+
+⭐ Always learning, building, and improving.
